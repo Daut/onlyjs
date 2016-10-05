@@ -1,0 +1,22 @@
+{
+  "name": "onlyjs",
+  "version": "1.0.0",
+  "description": "onlyjs checks if only parameters that are passed are in the object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daut/onlyjs.git"
+  },
+  "keywords": [
+    "only"
+  ],
+  "author": "Daut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daut/onlyjs/issues"
+  },
+  "homepage": "https://github.com/Daut/onlyjs#readme"
+}
